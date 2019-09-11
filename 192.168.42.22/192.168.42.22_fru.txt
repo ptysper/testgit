@@ -1,0 +1,42 @@
+FRU Device Description : Builtin FRU Device (ID 0)
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : ..................
+ Chassis Serial        : ..................
+ Chassis Extra         : ...............................
+ Chassis Extra         : ...............................
+ Board Mfg Date        : Wed Dec 30 04:18:00 2015
+ Board Mfg             : Intel Corporation
+ Board Product         : S2600TPR
+ Board Serial          : BQTP55240194
+ Board Part Number     : H26989-261
+ Product Manufacturer  : Intel Corporation
+ Product Name          : S2600TPR
+ Product Part Number   : ..........
+ Product Version       : ....................
+ Product Serial        : ............
+ Product Asset Tag     : ....................
+
+FRU Device Description : Pwr Supply 1 FRU (ID 2)
+
+FRU Device Description : Pwr Supply 2 FRU (ID 3)
+ Product Manufacturer  : SAMSUNG ELECTRO-MECHANICS CO.,LTD
+ Product Name          : IS162F22
+ Product Part Number   : G36234-009
+ Product Version       : 04A
+ Product Serial        : PSSF162202ACNS1622A4SF2N0148
+
+FRU Device Description : HS Backplane (ID 8)
+ Board Mfg Date        : Wed Jan 13 09:03:00 2016
+ Board Mfg             : Intel Corporation
+ Board Product         : FHW24X25HSBP12G
+ Board Serial          : BQKP54842594
+ Board Part Number     : H63643-350
+ Board Extra           : Field not present
+
+FRU Device Description : IO Module (ID 9)
+ Board Mfg Date        : Wed May 27 00:20:00 2015
+ Board Mfg             : Intel Corporation
+ Board Product         : AXX10GBNIA
+ Board Serial          : QSRU52101231
+ Board Part Number     : G23589-251
+

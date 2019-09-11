@@ -1,0 +1,28 @@
+{
+  "Devices" : [
+    {
+      "DevicePath" : "/dev/nvme0n1",
+      "Firmware" : "8DV101F0",
+      "Index" : 0,
+      "ModelNumber" : "INTEL SSDPE2MD400G4",
+      "ProductName" : "Non-Volatile memory controller: Intel Corporation PCIe Data Center SSD DC P3700 SSD [2.5\" SFF]",
+      "SerialNumber" : "PHFT617100BM400GGN",
+      "UsedBytes" : 400088457216,
+      "MaximumLBA" : 781422768,
+      "PhysicalSize" : 400088457216,
+      "SectorSize" : 512
+    },
+    {
+      "DevicePath" : "/dev/nvme1n1",
+      "Firmware" : "8DV101F0",
+      "Index" : 1,
+      "ModelNumber" : "INTEL SSDPE2MD400G4",
+      "ProductName" : "Non-Volatile memory controller: Intel Corporation PCIe Data Center SSD DC P3700 SSD [2.5\" SFF]",
+      "SerialNumber" : "CVFT6123002S400GGN",
+      "UsedBytes" : 400088457216,
+      "MaximumLBA" : 781422768,
+      "PhysicalSize" : 400088457216,
+      "SectorSize" : 512
+    }
+  ]
+}
