@@ -1,0 +1,22 @@
+Device ID                 : 34
+Device Revision           : 1
+Firmware Revision         : 1.43
+IPMI Version              : 2.0
+Manufacturer ID           : 343
+Manufacturer Name         : Intel Corporation
+Product ID                : 123 (0x007b)
+Product Name              : Unknown (0x7B)
+Device Available          : yes
+Provides Device SDRs      : no
+Additional Device Support :
+    Sensor Device
+    SDR Repository Device
+    SEL Device
+    FRU Inventory Device
+    IPMB Event Receiver
+    Chassis Device
+Aux Firmware Rev Info     : 
+    0xb4
+    0xd6
+    0xe8
+    0x33

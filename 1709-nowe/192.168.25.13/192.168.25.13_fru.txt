@@ -1,0 +1,64 @@
+FRU Device Description : Builtin FRU Device (ID 0)
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : ..................
+ Chassis Serial        : ..................
+ Chassis Extra         : ...............................
+ Chassis Extra         : ...............................
+ Board Mfg Date        : Sat Sep 16 15:45:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : S2600WFT
+ Board Serial          : BQWF73700045
+ Board Part Number     : H48104-850
+ Product Manufacturer  : Intel Corporation
+ Product Name          : S2600WFT
+ Product Part Number   : J79218-001
+ Product Version       : LWF1208YS514600
+ Product Serial        : BQF973900002
+ Product Asset Tag     : ....................
+
+FRU Device Description : Front Panel (ID 4)
+ Board Mfg Date        : Mon Aug 28 03:36:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : FFPANEL
+ Board Serial          : BQWL73403336
+ Board Part Number     : H39380-171
+
+FRU Device Description : HS Backplane 1 (ID 5)
+ Board Mfg Date        : Tue Aug 29 00:14:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : F1U8X25S3PHSBP
+ Board Serial          : BQWK73400114
+ Board Part Number     : H88382-350
+
+FRU Device Description : PCIe Riser 1 (ID 11)
+ Board Mfg Date        : Thu Aug 31 07:23:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : F1UL16RISER3
+ Board Serial          : BQWK73406310
+ Board Part Number     : H88399-250
+ Board Extra           : Field not present
+
+FRU Device Description : PCIe Riser 2 (ID 12)
+ Board Mfg Date        : Mon Sep  4 05:14:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : F1UL16RISER3
+ Board Serial          : BQWK73500436
+ Board Part Number     : H88399-250
+ Board Extra           : Field not present
+
+FRU Device Description : Pwr Supply 1 FRU (ID 2)
+ Product Manufacturer  : FLEXTRONICS
+ Product Name          : S-1100ADU00-201
+ Product Part Number   : G84027-007
+ Product Version       : 01
+ Product Serial        : EXWD73100090
+
+FRU Device Description : SAS Module (ID 10)
+ Board Mfg Date        : Tue Aug  8 12:09:00 2017
+ Board Mfg             : Intel Corporation
+ Board Product         : RMSP3HD080E
+ Board Serial          : ADHD73200525
+ Board Part Number     : J32825-202
+ Board Extra           : 035003302008
+ Board Extra           : SK73175128
+

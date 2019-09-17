@@ -1,0 +1,16 @@
+{
+  "Devices" : [
+    {
+      "DevicePath" : "/dev/nvme0n1",
+      "Firmware" : "VDV10131",
+      "Index" : 0,
+      "ModelNumber" : "INTEL SSDPE2KX040T8",
+      "ProductName" : "Unknown device",
+      "SerialNumber" : "BTLJ908200NW4P0DGN",
+      "UsedBytes" : 4000787030016,
+      "MaximumLBA" : 7814037168,
+      "PhysicalSize" : 4000787030016,
+      "SectorSize" : 512
+    }
+  ]
+}

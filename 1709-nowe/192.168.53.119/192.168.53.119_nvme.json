@@ -1,0 +1,28 @@
+{
+  "Devices" : [
+    {
+      "DevicePath" : "/dev/nvme0n1",
+      "Firmware" : "VDV10110",
+      "Index" : 0,
+      "ModelNumber" : "INTEL SSDPE2KX020T8",
+      "ProductName" : "Unknown device",
+      "SerialNumber" : "BTLJ7353018A2P0BGN",
+      "UsedBytes" : 2000398934016,
+      "MaximumLBA" : 3907029168,
+      "PhysicalSize" : 2000398934016,
+      "SectorSize" : 512
+    },
+    {
+      "DevicePath" : "/dev/nvme1n1",
+      "Firmware" : "VDV10110",
+      "Index" : 1,
+      "ModelNumber" : "INTEL SSDPE2KX020T8",
+      "ProductName" : "Unknown device",
+      "SerialNumber" : "BTLJ740502QN2P0BGN",
+      "UsedBytes" : 2000398934016,
+      "MaximumLBA" : 3907029168,
+      "PhysicalSize" : 2000398934016,
+      "SectorSize" : 512
+    }
+  ]
+}
