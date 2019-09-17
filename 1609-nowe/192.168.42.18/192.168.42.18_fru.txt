@@ -1,0 +1,67 @@
+FRU Device Description : Builtin FRU Device (ID 0)
+ Chassis Type          : Rack Mount Chassis
+ Chassis Part Number   : ..................
+ Chassis Serial        : ..................
+ Chassis Extra         : ...............................
+ Chassis Extra         : ...............................
+ Board Mfg Date        : Thu Jun 27 21:06:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : S2600WFT
+ Board Serial          : BQWF92600663
+ Board Part Number     : H48104-872
+ Product Manufacturer  : Intel Corporation
+ Product Name          : S2600WFT
+ Product Part Number   : K39991-003
+ Product Version       : R2208WFTZSR
+ Product Serial        : WO100127L01S002
+ Product Asset Tag     : ....................
+
+FRU Device Description : Front Panel (ID 4)
+ Board Mfg Date        : Mon Jul  8 10:57:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : FFPANEL
+ Board Serial          : BQWL92702022
+ Board Part Number     : H39380-171
+
+FRU Device Description : HS Backplane 1 (ID 5)
+ Board Mfg Date        : Fri Jun 28 18:37:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : FXX8X25S3PHSBP
+ Board Serial          : BQWK92500527
+ Board Part Number     : H88386-251
+
+FRU Device Description : PCIe Riser 1 (ID 11)
+ Board Mfg Date        : Fri Jun 21 04:54:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : A2UL8RISER2
+ Board Serial          : BQWL92500747
+ Board Part Number     : H20087-171
+
+FRU Device Description : PCIe Riser 2 (ID 12)
+ Board Mfg Date        : Fri Jun 21 04:49:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : A2UL8RISER2
+ Board Serial          : BQWL92500745
+ Board Part Number     : H20087-171
+
+FRU Device Description : PCIe Riser 3 (ID 13)
+ Board Mfg Date        : Thu Jun 13 09:55:00 2019
+ Board Mfg             : Intel Corporation
+ Board Product         : A2UX8X4RISER
+ Board Serial          : BQWL92400220
+ Board Part Number     : G94347-271
+
+FRU Device Description : Pwr Supply 1 FRU (ID 2)
+ Product Manufacturer  : SOLUM CO., LTD.                  
+ Product Name          : PSSF132202A
+ Product Part Number   : H79286-008
+ Product Version       : 01A
+ Product Serial        : CNS1322A4AJ9E0522
+
+FRU Device Description : Pwr Supply 2 FRU (ID 3)
+ Product Manufacturer  : SOLUM CO., LTD.                  
+ Product Name          : PSSF132202A
+ Product Part Number   : H79286-008
+ Product Version       : 01A
+ Product Serial        : CNS1322A4AJ7K0933
+
