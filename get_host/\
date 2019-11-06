@@ -1,0 +1,38 @@
+from selenium.webdriver import Firefox
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support import expected_conditions as expected
+from selenium.webdriver.support.wait import WebDriverWait
+from time import sleep
+
+if __name__ == "__main__":
+    options = Options()
+    options.headless = True
+    options.accept_untrusted_certs = True
+    driver = Firefox(executable_path='geckodriver', options=options)
+    wait = WebDriverWait(driver, timeout=10)
+    driver.get("http://192.168.42.21/page/login.html")
+    driver.find_element_by_id("login_username").click()
+    driver.find_element_by_id("login_username").clear()
+    driver.find_element_by_id("login_username").send_keys("Operator")
+    driver.find_element_by_id("login_password").clear()
+    driver.find_element_by_id("login_password").send_keys("operator")
+    driver.find_element_by_id("LOGIN_VALUE_1").click()
+    #driver.switch_to_default_content()
+    driver.get("http://192.168.42.21/index.html")
+    sleep(10)
+    #list1 = driver.find_elements_by_xpath('//*[@id]')
+    #for a in list1:
+    #    print a.get_attribute("id")
+    driver.switch_to.frame('MAINFRAME')
+    #list2 = driver.find_elements_by_xpath("//*[@id]")
+    #for b in list2:
+    #    print b.get_attribute("id")
+    bmcfw = driver.find_element_by_xpath("//*[@id=\'_bmcFwRev\']")
+    sdr = driver.find_element_by_xpath("//*[@id=\'_sdrVersion\']")
+    mefw = driver.find_element_by_xpath("//*[@id=\'_MEVersionRow\']")
+    print bmcfw.text
+    print sdr.text
+    print mefw.text
+    print "done"
